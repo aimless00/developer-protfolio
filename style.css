@@ -31,3 +31,13 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.akash{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(74, 164, 238),rgb(166, 166, 245));
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.joha{
+    width: 80%;
+}
