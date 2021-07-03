@@ -8,7 +8,7 @@ h1{
 .color{
     color:rgb(252, 167, 10);
 }
-section{
+.Change{
     display: flex;
 }
 .alamin{
@@ -38,16 +38,11 @@ section{
     border-radius: 10px;
     font-weight: 700;
 }
-.joha img{
-    width: 60%;
-    padding-left: 25px;
-
-}
-.joha{
-    width: 50%;
-}
 .a1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.border{
+    border-left: darkblue;
 }
