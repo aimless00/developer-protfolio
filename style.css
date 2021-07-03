@@ -45,6 +45,9 @@ section{
 }
 .joha{
     width: 50%;
-    
-
+}
+.a1{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
