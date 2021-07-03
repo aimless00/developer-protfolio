@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color:rgb(252, 167, 10);
+}
+section{
+    display: flex;
+}
+.alamin{
+    width: 50%;
+    padding: 5%;
+    
+}
+.alamin img{
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+   background-image: linear-gradient(yellow, orange);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+}
